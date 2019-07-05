@@ -1,6 +1,6 @@
 # ImgCut 
 
-## An interactive application for cutting objects from an image
+## An interactive GUI for cutting objects from an image
 
 ### Dependencies
 
