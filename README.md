@@ -8,6 +8,7 @@
 
 ### Instructions
 
+* Another version for GrabLabel which outputs objects but not labels.
 * For multi-object cut, click Finish after cutting each one.
 * files in "bin" is for direct use.
 
